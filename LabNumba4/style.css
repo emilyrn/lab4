@@ -1,0 +1,70 @@
+body {
+  background-image: url(http://www.stockazoo.com/uploads/3/5/4/5/3545172/100064_trees.jpg);
+}
+
+/*.row {
+  border: 3px solid black;*/
+/*}*/
+.row div.col-xs-9 {
+  background-color: rgba(225, 225, 225, 0.3);
+}
+
+.pix {
+  height: 150px;
+  width: 250px;
+  float: left;
+  margin: 20px;
+  margin-bottom: 5px;
+  border-radius: 10px;
+  margin-top: 5px;
+
+}
+
+h3 {
+  margin-left: 35px;
+  text-decoration: underline;
+
+}
+
+p {
+  margin-left: 20px;
+}
+
+div {
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.navbar.navbar-default {
+  background: rgba(255, 225, 225, 0.3);
+}
+
+#signin {
+  float: left;
+  margin-left: 15px;
+  margin-top: 15px;
+}
+
+#searchy {
+  margin-right: 15px;
+}
+
+form {
+ text-align: center;
+}
+
+footer {
+  text-align: center;
+}
+
+.col-xs-3 {
+  text-align: center;
+}
+
+div.col-xs-3 a:hover {
+    color: yellow;
+}
+
+h2 {
+  text-align: center;
+}
